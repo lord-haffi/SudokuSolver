@@ -1,6 +1,6 @@
 # SudokuSolver
 This little snippet solves Sudokus with various strategies but without Brute Force.
-To use it just store the Sudoku as plain text as shown below and pass the file path to the program.
+To use it just store the Sudoku as plain text as shown below and pass the file path to the program. The result will be outputted to console.
 ```
  926 74 5
 5 8  42  
