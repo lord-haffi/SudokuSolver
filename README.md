@@ -13,4 +13,5 @@ To use it just store the Sudoku as plain text as shown below and pass the file p
 3 5872 91
 ```
 This corresponds to this Sudoku:
+
 ![](sudoku_example.jpg?raw=true)
